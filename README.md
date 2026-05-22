@@ -116,8 +116,8 @@ To interact with the oil spill detection model via the Streamlit app, follow the
 
 *This project was completed in collaboration with:*
 - *Jason Qin ([jq2406@nyu.edu](mailto:jq2406@nyu.edu))*
-- *Chelsea Nguyen ([chelsea.nguyen001@umb.edu](mailto:chelsea.nguyen001@umb.edu))*
 - *Xavier Rush ([xcrush@aggies.ncat.edu](mailto:xcrush@aggies.ncat.edu))*
+- *Asad Chaudhry ([achau024@fiu.edu](mailto:achau024@fiu.edu))*
 
 ## Contact
 
@@ -129,6 +129,5 @@ If you’d like to talk about:
   - Sharing feedback or ideas  
 
 Feel free to connect:  
-  - [LinkedIn](https://www.linkedin.com/in/asad-a-chaudhry/)  
-  - [Email](mailto:asadachau@gmail.com)  
+  - [LinkedIn](https://linkedin.com/in/chelsea-nguyen-)  
 
